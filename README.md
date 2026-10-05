@@ -70,7 +70,7 @@ Login → Home → Flight Search → Flight Details → Booking → Check-in →
 ## 🔗 Figma Prototype
 
 **Interactive Prototype:**  
-PASTE YOUR FIGMA LINK HERE
+https://www.figma.com/proto/gnp2rpGb1ulnFudouMXQDJ/Untitled?node-id=15-6&starting-point-node-id=15%3A6
 
 ## 📚 Project Type
 
